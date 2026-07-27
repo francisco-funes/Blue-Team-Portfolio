@@ -4,7 +4,7 @@
 ![Windows](https://img.shields.io/badge/OS-Windows-blue)
 ![DFIR](https://img.shields.io/badge/Category-DFIR-orange)
 ![Status](https://img.shields.io/badge/Status-Solved-success)
-![Status] (https://labs.hackthebox.com/achievement/sherlock/3007654/1212)
+(https://labs.hackthebox.com/achievement/sherlock/3007654/1212)
 ---
 
 
