@@ -29,3 +29,4 @@ Actualmente me encuentro formándome en ciberseguridad con un enfoque en **Blue 
 | Dream Job-2 | Threat Intelligence| ✅ | [HTB](https://labs.hackthebox.com/achievement/sherlock/3007654/1051) | 
 | Telly | SOC | ✅ | [HTB](https://labs.hackthebox.com/achievement/sherlock/3007654/1144) | 
 | Brutus | DFIR | ✅ | [HTB](https://labs.hackthebox.com/achievement/sherlock/3007654/631) | 
+| PHP-CGI_(CVE-2024-4577) | SOC | ✅ | [HTB](https://labs.hackthebox.com/achievement/sherlock/3007654/1509) | 
